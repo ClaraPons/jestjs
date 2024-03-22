@@ -7,7 +7,7 @@ test('test should return anagram', () => {
     expect(isAnagram(str1, str2)).toBe(true)
 })
 
-test('test should return anagram', () => {
+test('test should not return anagram', () => {
     const str1 = 'abc'
     const str2 = 'cba'
 
