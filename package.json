@@ -1,0 +1,26 @@
+{
+  "name": "jestjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "anagram.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClaraPons/jestjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClaraPons/jestjs/issues"
+  },
+  "homepage": "https://github.com/ClaraPons/jestjs#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
